@@ -6,6 +6,7 @@ An application to save any random article from Wikipedia to a text file.
 
 ```bash
 pip install htmlparser
+
 pip install beautifulsoup4
 ```
 
